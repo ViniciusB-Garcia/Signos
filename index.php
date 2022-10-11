@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 
 <!-- Código desenvolvido por Vinícius Garcia, para o Fórum "Programação Web", do curso de 
-Análise e Desenvolvimento de Sistemas, da Universidade Unopar -->
+Análise e Desenvolvimento de Sistemas -->
 
 <head>
     <meta charset="utf-8">
